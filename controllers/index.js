@@ -45,3 +45,7 @@ var capNhatSinhVien = function (id, sinhVienUpdate) {
 var xoaSinhVien = function () {
   console.log("Xoa Sinh Vien");
 };
+
+var newBrandfunction = function () {
+  console.log("Xoa Sinh Vien");
+};
