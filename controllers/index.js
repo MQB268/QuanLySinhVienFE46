@@ -49,3 +49,7 @@ var xoaSinhVien = function () {
 var newBrandfunction = function () {
   console.log("Xoa Sinh Vien");
 };
+
+var newBrandfunction = function () {
+    console.log("Xoa Sinh Vien");
+  }; //Bao
