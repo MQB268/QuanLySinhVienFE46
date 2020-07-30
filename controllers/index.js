@@ -42,3 +42,6 @@ var themSinhVien = function () {
 var capNhatSinhVien = function (id, sinhVienUpdate) {
   console.log("Cập nhật sinh viên " + id);
 };
+var xoaSinhVien = function () {
+  console.log("Xoa Sinh Vien");
+};
